@@ -6,7 +6,7 @@ Play against the computer and keep track of your score with persistent storage.
 ---
 
 ## ▶️ Watch the Demo
-[![Rock Paper Scissors - Demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=cu5PvZ-UYTQ&list=PL3rikoZv2_R8hFEGWvHXemfvgo8hjK3u4&index=3)
+[![Rock Paper Scissors - Demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=Wn6D9hll2ao)
 
 ---
 
