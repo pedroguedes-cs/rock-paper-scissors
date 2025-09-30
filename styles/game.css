@@ -1,0 +1,104 @@
+body
+{
+    background-color: rgb(24, 24, 24);
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.buttons-area button
+{
+    background-color: rgb(24, 24, 24);
+    padding: 16px 18px;
+    border: solid 3px white;
+    border-radius: 50px;
+
+    margin-top: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    cursor: pointer;
+}
+.buttons-area img
+{
+    width: 60px;
+}
+.moves-area
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    padding: 15px 20px 10px 20px;
+    border: solid white 3px;
+    margin-top: 30px;
+}
+.moves-area img
+{
+    width: 40px;
+    padding-bottom: 5px;
+}
+.moves-area p
+{
+    display: inline-block;
+    margin: 0px 10px;
+}
+.player-move
+{
+    border-bottom: solid 3px lightgreen;
+}
+.score-area
+{
+    margin-top: 30px;
+}
+.score-area p
+{
+    font-size: 20px;
+
+    display: inline-block;
+    padding: 8px 10px;
+}
+.wins
+{
+    border: solid 2px lightgreen;
+}
+.ties
+{
+    border: solid 2px lightyellow;
+}
+.losses
+{
+    border: solid 2px lightcoral;
+}
+.reset-button
+{
+    background-color: rgb(24, 24, 24);
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+
+    padding: 10px 16px;
+    border: solid 3px white;
+    border-radius: 8px;
+    margin-top: 30px;
+
+    cursor: pointer;
+
+    display: inline-block;
+}
