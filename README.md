@@ -10,6 +10,13 @@ Play against the computer and keep track of your score with persistent storage.
 
 ---
 
+## 🎮 How it Looks
+
+![Game Start](assets/start.png)  
+![Game Play](assets/play.png)
+
+---
+
 ## ⚙️ Build and Run
 
 1. Clone the repository:
